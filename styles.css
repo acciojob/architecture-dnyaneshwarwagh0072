@@ -1,1 +1,40 @@
-/*  your css code here. If applicable */
+body {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.main-container {
+    width: 1100px;
+    margin: auto;
+    background-color: rgb(205, 205, 195);
+}
+
+.img-css {
+    width: 60%;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+table {
+    margin: auto;
+    margin: 50px;
+    text-align: center;
+}
+
+.table-img {
+    width: 90%;
+    margin-top: 10px;
+}
+
+.first-row-data {
+    width: 200px;
+}
+
+.middle-row {
+    width: 600px;
+}
+
+.last-row {
+    width: 200px;
+}
